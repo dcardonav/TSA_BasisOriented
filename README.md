@@ -1,1 +1,1 @@
-# phd_suppl_paper_1
+# Supplementary Results from Basis Oriented Time Series Aggregation Results
